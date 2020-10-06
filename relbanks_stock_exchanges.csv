@@ -1,0 +1,21 @@
+,Title,Address,Contact,Website
+0,NASDAQ,"['One Liberty Plaza', '165 Broadway', 'New York, NY 10006', 'United States', 'http://business.nasdaq.com']",212-401-8700,
+1,New York Stock Exchange,"['11 Wall Street', 'New York, NY\xa0 10005', 'United States ', 'Nearest Subways to New York Stock Exchange: ', '2/3 or 4/5 to Wall Street; N, R or W to Rector Street']",+1 212 748 4000,www.nyse.com
+2,NYSE MKT LLC,"['11 Wall Street', 'New York, NY 10005 ', 'United States']",,www.nyse.com/markets/nyse-mkt
+3,NYSE Euronext,"['11 Wall Street', 'New York, NY 10005', 'United States']",,www.nyx.com
+4,Australian Securities Exchange,"['Exchange Centre, 20 Bridge Street', 'Sydney, NSW, 2000']",+61 (02) 9227 0000,www.asx.com.au
+5,Berne eXchange,"['Aarbergergasse 36', '3011 Bern', 'Switzerland ']",+41 (0) 31 329 40 40,www.berne-x.com
+6,Bombay Stock Exchange,"['Phiroze Jeejeebhoy Towers', 'Dalal street', 'Mumbai, 400001', 'Fax: 91 22 2272 1919']",91 22 2272 1233,www.bseindia.com
+7,Deutsche Börse AG,"['Mergenthalerallee 61', '65760 Eschborn', 'Germany']",+ 49 69 2110,www.deutsche-boerse.com
+8,Euronext,"['Beursplein 5', '1012 JW Amsterdam ', 'Netherlands ']",+31 (0) 20 550 4444,www.euronext.com
+9,Frankfurt Stock Exchange,"['Börsenplatz 4', 'Frankfurt, 60313', 'Germany']",+49 (0) 69 2111 16 70,"www.boerse-frankfurt.de, www.deutsche-boerse-cash-market.com"
+10,Johannesburg Stock Exchange (JSE),"['One Exchange Square', 'Gwen Lane, Sandown, 2196', 'Republic of South Africa']",+27 11 520-7000,www.jse.co.za
+11,Hong Kong Stock Exchange,[],,
+12,Korea Exchange,"['Busan International FinanceCenter, 40', 'Munhyungeumyung-ro, Namgu,Busan']",82-51-662-2000,http:www.krx.co.kr
+13,London Stock Exchange,"['10 Paternoster Square', 'London EC4M 7LS', 'United Kingdom']",+44 (0) 20 7797 1000,"www.londonstockexchange.com, www.lseg.com"
+14,New Zealand Stock Exchange,"['Level 2, NZX Centre ', '11 Cable Street ', 'Wellington, New Zealand ', 'Fax: +64 4 496 2893', 'Level 7, Zurich House ', '21 Queen Street', 'Auckland 1010, New Zealand']",+64 4 472 7599,www.nzx.com
+15,Nigerian Stock Exchange,"['2/4 Customs Street', 'P.O. Box 2457', 'Lagos, Nigeria']",+234 1 4638333-5,www.nse.com.ng
+16,SIX Swiss Exchange,"['Selnaustrasse 30 ', 'Postfach CH-8021 ', 'Zurich, Switzerland', 'Fax: + 41 58 499 5455 ']",+ 41 58 399 5454,www.six-swiss-exchange.com
+17,Tel Aviv Stock Exchange,"[""54 Ahad Ha'am Street"", 'Tel Aviv, 65202', 'Israel']",,www.tase.co.il
+18,Toronto Stock Exchange,"['The Exchange Tower', '130 King Street West', 'Toronto, ON, M5X 1J2, Canada', 'Fax: (416) 947-4770']",+1 888 873 8392,"www.tmx.com, www.tsx.com"
+19,Tokyo Stock Exchange,"['2-1 Nihonbashi-Kabutocho, ', 'Chuo-ku, Tokyo', '103-8220 Japan ']",+81-3-3666-0141,www.jpx.co.jp

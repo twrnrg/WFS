@@ -1,0 +1,145 @@
+,Name,Address,Contact,Full Address,State,Country,Pincode
+0,New York Stock Exchange,"New York, United States",+1 212-896-2830,"['11 Wall Street', 'New York, NY 10005']",New York, United States,10005
+1,NASDAQ Stock Exchange,"New York, United States",+1 212-401-8700,"['One Liberty Plaza', '165 Broadway', 'New York, NY 10006']",New York, United States,10006
+2,London Stock Exchange,"London, United Kingdom",+44 20 7797 4400,"['10 Paternoster Square', 'London, EC4M 7LS']",London, United Kingdom,
+3,Tokyo Stock Exchange,"Tokyo, Japan",+81 3-3666-1361,"['2-1 Nihombashi Kabutocho', 'Chuo-ku', 'Tokyo 103-8224, Japan']",Tokyo, Japan,8224
+4,Shanghai Stock Exchange,"Shanghai, China",+86 21 6880 8888,"['China, Shanghai Shi, Pudong Xinqu, Lu Jia Zui,', 'Pudong S Rd, 528号上海证券大厦']",Shanghai, China,
+5,Hong Kong Stock Exchange,"Hong Kong, Hong Kong",+852 2522 1122,"['Exchange Square Block 1 And 2', '8號 25 Connaught Pl,', 'Mid-Levels, Hong Kong']",Hong Kong, Hong Kong,
+6,Euronext Amsterdam Stock Exchange,"Amsterdam, Netherlands",+31 20 721 4444,"['Beursplein 5', '1012 JW Amsterdam, Netherlands']",Amsterdam, Netherlands,1012
+7,Shenzhen Stock Exchange,"Shenzhen, China",+86 88668888,"['2012 Shennan Blvd.', 'Futian District', 'Shenzhen, P.R.China 518038']",Shenzhen, China,518038
+8,Toronto Stock Exchange,"Toronto, Canada",+1 888-873-8392,"['130 King St W,', 'Toronto, ON M5X 1J2, Canada']",Toronto, Canada,
+9,Bombay Stock Exchange,"Mumbai, India",+91 22721233,"['Phiroze Jeejeebhoy Towers', 'Dalal Street', 'Mumbai, 400001']",Mumbai, India,400001
+10,India National Stock Exchange,"Mumbai, India",+91 22 2659 8100,"['Exchange Plaza, C-1, Block G', 'Bandra Kurla Complex', 'Bandra (E) Mumbai – 400 051']",Mumbai, India,
+11,Swiss Stock Exchange,"Zurich, Switzerland",+41 58 399 21 11,"['Pfingstweidstrasse 110', '8021 Zürich, Switzerland']",Zurich, Switzerland,8021
+12,Australia Stock Exchange,"Sydney, Australia",+61 2 9227 0000,"['Exchange Centre', '20 Bridge Street', 'Sydney, NSW 2000 Australia']",Sydney, Australia,2000
+13,South Korea Stock Exchange,"Seoul, South Korea",+82 2-3774-9000,"['33, Seoul', 'South Korea 150-977']",Seoul, South Korea,
+14,Stockholm Stock Exchange,"Stockholm, Sweden",+46 8 405 60 00,"['Tullvaktsvägen 15', '115 56 Stockholm, Sweden']",Stockholm, Sweden,
+15,Johannesburg Stock Exchange,"Johannesburg, South Africa",+27 11 520 7000,"['JSE Limited', 'One Exchange Square, Gwen Lane', 'Sandown, 2196', 'Republic of South Africa']",Johannesburg, South Africa,
+16,Madrid Stock Exchange,"Madrid, Spain",+34 917 09 50 00,"['Palacio de la Bolsa', 'Plaza de la Lealtad, 1', '28014 Madrid, Spain']",Madrid, Spain,28014
+17,Taiwan Stock Exchange,"Taipei, Taiwan",+886 2 8101 3101,"['3F, 9-12F, No.7, Sec.5, Xinyi Rd.', 'Taipei, Taiwan 11049']",Taipei, Taiwan,11049
+18,Brazil Stock Exchange,"São Paulo, Brazil",+55 11 2565-5996,"['B3 Centro', 'Praça Antonio Prado, 48', 'Rua XV de Novembro, 275', 'São Paulo - SP, 01010-010']",São Paulo, Brazil,1010
+19,Frankfurt Stock Exchange,"Frankfurt, Germany",+49 4906 92110,"['The Cube', 'Mergenthalerallee 61', '65760 Eschborn Germany']",Frankfurt, Germany,65760
+20,Malaysia Stock Exchange,"Kuala Lumpur, Malaysia",+60 3-2034 7000,"['Exchange Square', 'Bukit Kewangan', '50200 Kuala Lumpur, Malaysia']",Kuala Lumpur, Malaysia,50200
+21,Jamaica Stock Exchange,"Kingston, Jamaica",+1 876-967-3271,"['Jamaica Stock Exchange Limited', '40 Harbour Street', 'Kingston', 'Jamaica']",Kingston, Jamaica,
+22,Santiago Stock Exchange,"Santiago, Chile",+56 2 2399 3000,"['La Bolsa 64, Santiago', 'Región Metropolitana']",Santiago, Chile,
+23,Colombia Stock Exchange,"Bogotá, Colombia",+57 1 3139800,"['Carrera 7 No. 71-21', 'Torre B Piso 12.', 'Edificio BVC.', 'Bogotá, Colombia']",Bogotá, Colombia,
+24,Lima Stock Exchange,"Lima, Perú",+51 1 6193333,"['Pasaje Acuña 106', 'Lima 100, Peru']",Lima, Perú,
+25,Mexican Stock Exchange,"Mexico City, Mexico",+52 55 5342 9950,"['Rubén Alfonso Perera Santos', 'Paseo de la Reforma 255, Col.', 'Cuauhtémoc, 06500, México D.F.']",Mexico City, Mexico,6500
+26,Argentinian Stock Exchange,"Buenos Aires, Argentina",+54 11 4316-7000,"['Sarmiento 299', 'Buenos Aires, Argentina, C1041AAE']",Buenos Aires, Argentina,1041
+27,Chittagong Stock Exchange,"Chittagong, Bangladesh",+880 3171-46323,"['CSE Building', '1080, Sk. Mujib Road Agrabad', 'Chittagong 4100, Bangladesh']",Chittagong, Bangladesh,4100
+28,Colombo Stock Exchange,"Colombo, Sri Lanka",+94 112 356 456,"['04-01, West Block', 'World Trade Center, Echelon Square', 'Colombo 01']",Colombo, Sri Lanka,
+29,Dhaka Stock Exchange,"Dhaka, Bangladesh",+880 2-9564601,"['Stock Exchange Building, 9/F', 'Motijheel C/A', 'Dhaka, Bangladesh']",Dhaka, Bangladesh,
+30,Ho Chi Minh Stock Exchange,"Ho Chi Minh, Vietnam",+84 838 217 713,"['16 Vo Van Kiet Street', 'Dist. 1, Ho Chi Minh City']",Ho Chi Minh, Vietnam,
+31,Indonesia Stock Exchange,"Jakarta, Indonesia",+62 622 15150515,"['Indonesia Stock Exchange Building', '1st Tower', 'Jl. Jend. Sudirman Kav 52-53', 'Jakarta Selatan 12190, Indonesia']",Jakarta, Indonesia,12190
+32,New Zealand Stock Exchange,"Wellington, New Zealand",+64 4-495 2378,"['Level 1, NZX Centre', '11 Cable Street', 'Wellington, New Zealand 6011']",Wellington, New Zealand,6011
+33,Philippine Stock Exchange,"Manila, Philippines",+63 2 819 4100,"['Philippine Stock Exchange Centre, Road', 'Ortigas Center, Pasig', '1605 Metro Manila, Philippines']",Manila, Philippines,1605
+34,Singapore Exchange,"Singapore, Singapore",+65 6535 7511,"['2 Shenton Way', '#02-02 SGX Centre 1', 'Singapore 068804']",Singapore, Singapore,68804
+35,Stock Exchange of Thailand,"Bangkok, Thailand",+66 2 009 9999,"['Stock Exchange of Thailand', '93 Ratchadaphisek Road', 'Dindaeng, Bangkok 10400']",Bangkok, Thailand,10400
+36,Abu Dhabi Securities Exchange,"Abu Dhabi, United Arab Emirates",+971 2 627 7777,"['Al Ghaith Tower', 'Ground Floor', 'Hamdan Bin Mohammed Street', 'Abu Dhabi, United Arab Emirates']",Abu Dhabi, United Arab Emirates,
+37,Amman Stock Exchange,"Amman, Jordan",+962 6 566 4109,"['Al-Mansour Ben Abi Amer St.', 'Amman, Jordan']",Amman, Jordan,
+38,Athens Stock Exchange,"Athens, Greece",+30 21 0336 6800,"['HELEX Group', '110 Athinon Ave', 'GR10442 Athens']",Athens, Greece,10442
+39,Istanbul Stock Exchange,"Istanbul, Turkey",+90 212 298 21 00,"['Resitpasa Mahallesi, Tuncay Artun Caddesi, Emirgan, Sariyer', '34467 Istanbul, Turkey']",Istanbul, Turkey,34467
+40,Casablanca Stock Exchange,"Casablanca, Morocco",+212 5224-52626,"['Casablanca Stock Exchange', 'Angle Avenue des Forces Armées Royales et Rue Arrachid Mohamed', 'Casablanca- MAROC']",Casablanca, Morocco,
+41,Bucharest Stock Exchange,"Bucharest, Romania",+40 21 307 9500,"['Carol I Blvd. 34 - 36, 14th floor', '020922 Bucharest, Romania']",Bucharest, Romania,20922
+42,Budapest Stock Exchange,"Budapest, Hungary",+36 1 429 6857,"['Bank Center', 'Szbadsag ter 7.', '5th district', 'Budapest 1054 Hungary']",Budapest, Hungary,1054
+43,Dubai Financial Market,"Dubai, United Arab Emirates",+971 4 305 5555,"['Dubai Financial Market', 'Mezzanine Floor, World Trade Centre (Rashid Tower)', 'Sheikh Zayed Road', 'Dubai, United Arab Emirates']",Dubai, United Arab Emirates,
+44,Egyptian Exchange,"Cairo, Egypt",+20 2 23941900,"['4 El Sharifeen St,', 'DOWNTOWN Abdeen', 'Cairo Governorate, Egypt']",Cairo, Egypt,
+45,Irish Stock Exchange,"Dublin, Ireland",+353 1 617 4200,"['28 Anglesea Street', 'Dublin 2', 'Ireland']",Dublin, Ireland,
+46,Kazakhstan Stock Exchange,"Almaty, Kazakhstan",+7 7272 37 53 00,"['Northern tower of Multifunctional Complex Almaty Towers', '280 Baizakov Street', 'Almaty 050040, Republic of Kazakhstan']",Almaty, Kazakhstan,50040
+47,Luxembourg Stock Exchange,"Luxembourg City, Luxembourg",+352 47 79 36 1,"['35A Boulevard Joseph ll', 'L-1840 Luxembourg']",Luxembourg City, Luxembourg,1840
+48,Moscow Exchange,"Moscow, Russia",+7 495 232-33-63,"['125009 Moscow,', 'Bolshoy Kislovsky per, 13']",Moscow, Russia,
+49,Nigerian Stock Exchange,"Lagos, Nigeria",+234 700 225 5673,"['Stock Exchange House', '2-4 Customs Street', 'Lagos, Nigeria']",Lagos, Nigeria,
+50,Oslo Stock Exchange,"Oslo, Norway",+47 22 34 17 00,"['Tollbugata 2', 'Postboks 460 Sentrum', '0105 Oslo, Norway']",Oslo, Norway,
+51,Palestine Securities Exchange,"Nablus, Palestine",+970 9 239 0999,"['Exchange building', 'Amman Street', 'Nablus, Palestina']",Nablus, Palestine,
+52,Qatar Stock Exchange,"Doha, Qatar",+974 4433 3666,"['Conference Centre', 'Doha, Qatar']",Doha, Qatar,
+53,Saudi Stock Exchange,"Riyadh, Saudi Arabia",+966 11 218 9999,"['6897 King Fahd Road - Al Ulaya', 'Unit Number: 15', 'Riyadh 12211-3388']",Riyadh, Saudi Arabia,12211
+54,Stock Exchange of Mauritius,"Port Louis, Mauritius",+230 212 9541,"['One Cathedral Square Building', '16, Jules Koenig Street', 'Port Louis']",Port Louis, Mauritius,
+55,Tehran Stock Exchange,"Tehran, Iran",+98 21 6673 0776,"['No. 192, Hafez Ave.', 'Tehran 11355, Iran']",Tehran, Iran,11355
+56,Tel-Aviv Stock Exchange,"Tel-Aviv, Israel",+972 3-567-7411,"['2 Ahuzat Bayit Street', 'Tel Aviv,\xa06525216, Israel']",Tel-Aviv, Israel,6525216
+57,Ukrainian Exchange,"Kiev, Ukraine",+380 44 495 7474,"['Horizon Office Tower', 'Shovkovychna St, 42/44', 'Kyiv, Ukraine, 01601']",Kiev, Ukraine,1601
+58,Warsaw Stock Exchange,"Warsaw, Poland",+48 22 628 32 32,"['Warsaw Stock Exchange', 'Książęca 4', '00-498 Warsaw']",Warsaw, Poland,
+59,Vienna Stock Exchange,"Vienna, Austria",+43 1 531650,"['Wallnerstraße 8', 'A-1010 Vienna']",Vienna, Austria,1010
+60,Zagreb Stock Exchagne,"Zagreb, Croatia",+385 1 4686 800,"['Ivana Lučića 2a', '10000 Zagreb, Croatia']",Zagreb, Croatia,10000
+61,Malta Stock Exchange,"Valletta, Malta",+356 2124 4051,"['Garrison Chapel', 'Castille Place', 'Valletta VLT 1063', 'Malta']",Valletta, Malta,
+62,Barbados Stock Exchange,"St. Michael, Barbados",+1 246-436-9871,"['8th Avenue, Belleville', 'St. Michael, BB11114', 'Barbados']",St. Michael, Barbados,
+63,Bermuda Stock Exchange,"Hamilton, Bermuda",+1 441-292-7212,"['30 Victoria Street', 'Hamilton, Bermuda']",Hamilton, Bermuda,
+64,Hanoi Stock Exchange,"Hanoi, Vietnam",+84 439360750,"['No. 02, Phan Chu Trinh Street', 'Hoan Kiem District', 'Hanoi Vietnam']",Hanoi, Vietnam,
+65,Bahrain Stock Exchange,"Manama, Bahrain",+973 1726 1260,"['Bahrain Financial Harbour', 'Harbour Mall', '4th Floor', 'Manama, Kingdom of Bahrain']",Manama, Bahrain,
+66,Beirut Stock Exchange,"Beirut, Lebanon",+961 1 993 555,"['Al Bachura, Azarieh Street', 'Azarieh Bldg. Block 01 - 4th floor', 'Beirut']",Beirut, Lebanon,
+67,Eurex Germany,"Frankfurt, Germany",+49 4143 4307260,"['Lowenstrasse 3', '8001 Zurich']",Frankfurt, Germany,8001
+68,Pakistan Stock Exchange,"Karachi, Pakistan",+92 21 111 001 122,"['Administration Block', 'Stock Exchange Road', 'Karachi-74000']",Karachi, Pakistan,74000
+69,Nairobi Securities Exchange,"Nairobi, Kenya",+254 20 2831000,"['55 Westlands Road', 'Nairobi 00100']",Nairobi, Kenya,
+70,Helsinki Stock Exchange,"Helsinki, Finland",+358 9 616671,"['Fabianinkatu 14', 'FIN-00100 Helsinki']",Helsinki, Finland,
+71,Riga Stock Exchange,"Riga, Latvia",+371 67 212 431,"['Valnu iela 1', 'Riga LV-1050']",Riga, Latvia,1050
+72,Euronext Paris Exchange,"Paris, France",+33 1 70 48 24 00,"['14, place des Reflets', '92054 Paris La Defense Cedex']",Paris, France,92054
+73,BX Swiss,"Zurich, Switzerland",+41 31 329 40 40,"['BX Swiss AG', 'Talstrasse 70', '8001 Zürich, Switzerland']",Zurich, Switzerland,8001
+74,Italian Stock Exchange,"Milan, Italy",+39 390 272 4261,"['Piazza degli Affari 6', '20123 Milan']",Milan, Italy,20123
+75,Copenhagen Stock Exchange,"Copenhagen, Denmark",+45 33 93 33 66,"['Nikolaj Plads 6', '1067 Copenhagen']",Copenhagen, Denmark,1067
+76,OTC Markets U.S.,"New York, United States",+1 212-896-4400,"['304 Hudson St', '3rd Floor', 'New York, NY 10013']",New York, United States,10013
+77,NYSE American Equities,"New York, United States",+1 212-896-2830,"['74 Trinity Pl', 'New York, NY 10006', 'USA']",New York, United States,
+78,AIM Stock Exchange,"London, United Kingdom",+44 20 7797 1000,"['10 Paternoster Square', 'London, EC4M 7LS']",London, United Kingdom,
+79,Taipei Exchange,"Taipei, Taiwan",+886 2 2366 8053,"['Taiwan Stock Exchange, No. 7, Section 5', 'Xinyi Road, Xinyi District', 'Taipei City, Taiwan 110']",Taipei, Taiwan,
+80,Belgrade Stock Exchange,"Belgrade, Serbia",+381 11 3117311,"['Beogradska berza a.d. Beograd', 'Omladinskih brigada 1', '11070 Novi Beograd']",Belgrade, Serbia,11070
+81,Bulgarian Stock Exchange,"Sofia, Bulgaria",+359 2 937 0934,"['Sofia 6 Tri ushi St.', '1000 Sofia']",Sofia, Bulgaria,1000
+82,Canadian National Stock Exchange,"Toronto, Canada",+1 416-572-2000,"['100 King Street West', 'Suite 7210', 'Toronto, Ontario, M5X 1E1']",Toronto, Canada,
+83,PFTS Stock Exchange,"Kiev, Ukraine",+380 44 277 5000,"['Shovkovychna 42-44', '6th floor', 'Kyiv, 01004, Ukraine']",Kiev, Ukraine,1004
+84,Nile Stock Exchange,"Cairo, Egypt",+20 2023928698,"['Al Sharifain, Bab Al Louq,Abdeen', 'Cairo Governorate, Egypt']",Cairo, Egypt,
+85,Euronext Brussels,"Brussels, Belgium",+32 2 620 15 00,"['1 Rue du Marquis, bte 1', '1000 Bruxelles']",Brussels, Belgium,1000
+86,Euronext Lisbon,"Lisbon, Portugal",+351 21 060 0600,"['Av. da Liberdade, n.º 196, 7°', '1250-147 Lisboa']",Lisbon, Portugal,1250
+87,Bourse de Montréal Options,"Montreal, Canada",+1 514-871-2424,"['Bourse de Montréal Inc.', '1800 - 1190 Avenue des Canadiens-de-Montréal', 'Montréal, Quebec', 'H3B 0G7, Canada']",Montreal, Canada,
+88,Spotlight Stock Market,"Stockholm, Sweden",+46 8 511 680 00,"['Klarabergsviadukten 63, 9th floor', '101 23 Stockholm']",Stockholm, Sweden,
+89,Kuwait Stock Exchange,"Kuwait, Kuwait",+965 2299 2000,"['Mubarak Al Kabeer Street', 'AlSharq', '13083 Kuwait']",Kuwait, Kuwait,13083
+90,Cyprus Stock Exchange,"Nicosia, Cyprus",+357 22 712300,"['71-73 Lordou Vironos Avenue, 1096', 'Nicosia 1309 Cyprus']",Nicosia, Cyprus,1309
+91,Ljubljana Stock Exchange,"Ljubljana, Slovenia",+386 1 471 02 11,"['Slovenska cesta 56', '1000 Ljubljana, Slovenia']",Ljubljana, Slovenia,1000
+92,Bratislava Stock Exchange,"Bratislava, Slovakia",+421 2/492 361 11,"['Burza cenných papierov v Bratislave, a.s.', 'Vysoká 17', '814 99 Bratislava 1']",Bratislava, Slovakia,
+93,Muscat Securities Market,"Muscat, Oman",+968 24 823600,"['Muscat Securities Market', 'Al Jami St', 'Muscat 112, Oman']",Muscat, Oman,
+94,Deutsche Börse Xetra,"Frankfurt, Germany",+49 4906 921111400,"['Börsenplatz 4', '60313 Frankfurt/Main']",Frankfurt, Germany,60313
+95,London Metal Exchange,"London, United Kingdom",+44 20 7113 8888,"['10 Finsbury Square', 'London', 'EC2A 1AJ']",London, United Kingdom,
+96,Spanish Stock Exchange,"Madrid, Spain",+34 917 09 50 00,"['Palacio de la Bolsa', 'Plaza de la Lealtad 1', '28014 Madrid. Spain']",Madrid, Spain,28014
+97,Iceland Stock Exchange,"Reykjavik, Iceland",+354 525 2800,"['Laugavegi 182', '105 Reykjavik, Iceland']",Reykjavik, Iceland,
+98,TSX Venture Exchange,"Calgary, Canada",+1 416-947-4670,"['300 - 5th Avenue SW', '10th Floor', 'Calgary, AB', 'T2P 3C4, Canada']",Calgary, Canada,
+99,Nagoya Stock Exchange,"Nagoya, Japan",+81 38220229710,"['8-20, Sakae3-chome', 'Naka-ku, Nagoya 460-0008', 'Japan']",Nagoya, Japan,
+100,Hamburg Stock Exchange,"Hamburg, Germany",+49 4904 03613020,"['Kleine Johannisstraße 4', '20457 Hamburg']",Hamburg, Germany,20457
+101,Fukuoka Stock Exchange,"Fukuoka, Japan",+81 92-741-8231,"['2-14-2 Tenjin', 'Chuo-ku', 'Fukuoka City']",Fukuoka, Japan,
+102,Munich Stock Exchange,"Munich, Germany",+49 89 5490450,"['Karolinenpl. 6', '80333 München', 'Germany']",Munich, Germany,
+103,Börse Berlin Stock Exchange,"Germany, Germany",+49 4903 03110910,"['Fasanenstraße 85', '10623 Berlin']",Germany, Germany,10623
+104,Prague Stock Exchange,"Prague, Czech Republic",+420 221 832 821,"['Rybná 14', '110 05 Praha 1. Czech Republic']",Prague, Czech Republic,
+105,OTC Russia,"Moscow, Russia",+7 495 899-01-70,"['Dolgorukovskaya Street', 'Building 38 Building 1', 'Floor 6, Room 16, Room 2.', '127006, Moscow. Russian Federation']",Moscow, Russia,127006
+106,Sapporo Securities Exchange,"SAPPORO, Japan",+81 11-241-6171,"['5 Chome-14番地１ Minami 1 Jonishi', 'Chuo Ward', 'Sapporo, Hokkaido 060-0061']",SAPPORO, Japan,
+107,OTC London,"London, United Kingdom",+44 20 3582 0250,"['10 Paternoster Square', 'London, EC4M 7LS']",London, United Kingdom,
+108,Düsseldorf Stock Exchange,"Düsseldorf, Germany",+49 211 13890,"['Ernst-Schneider-Platz 1', '40212 Düsseldorf']",Düsseldorf, Germany,40212
+109,Hannover Stock Exchange,"Hannover, Germany",+49 4905 111235640,"['An der Börse 2', '30159 Hannover']",Hannover, Germany,30159
+110,Nordic Growth Market,"Stockholm, Sweden",+46 8 566 390 00,"['Nordic Growth Market NGM AB', 'Mäster Samuelsgatan 42', 'SE-111 57 Stockholm']",Stockholm, Sweden,
+111,Stuttgart Stock Exchange,"Stuttgart, Germany",+49 4971 12229850,"['Börsenstrasse 4', '70174 Stuttgart, Germany']",Stuttgart, Germany,70174
+112,Ghana Stock Exchange,"Accra, Ghana",+233 30 266 9908,"['5th Floor, Cedi House, Liberia Avenue', 'Accra, Ghana']",Accra, Ghana,
+113,Investors Exchange,"New York, United States",+1 646-343-2000,"['3 World Trade Center 58th Floor', 'New York, NY 10007']",New York, United States,10007
+114,Mongolian Stock Exchange,"Ulaanbaatar, Mongolia",+976 11 31 3747,"['Sukhbaatar square-3', 'Ulaanbaatar 15160', 'Mongolia']",Ulaanbaatar, Mongolia,
+115,Zimbabwe Stock Exchange,"Harare, Zimbabwe",+263 2428868305,"['44 Ridgeway North', 'Highlands, Harare']",Harare, Zimbabwe,
+116,Cayman Islands Stock Exchange,"Grand Cayman, Cayman Islands",+1 345-945-6060,"['4th Floor, Eden House', 'Elizabethan Square', 'George Town', 'Grand Cayman']",Grand Cayman, Cayman Islands,
+117,Banja Luka Stock Exchange,"Banja Luka, Bosnia and Herzegovina",+387 51 326-041,"['Petra Kocica bb', '78000 Banja Luka, RS, BiH']",Banja Luka, Bosnia and Herzegovina,78000
+118,Sarajevo Stock Exchange,"Sarajevo, Bosnia and Herzegovina",+387 33 251-460,"['Đoke Mazalića 4 / I', '71000 Sarajevo']",Sarajevo, Bosnia and Herzegovina,71000
+119,Macedonian Stock Exchange,"Skopje, Macedonia",+389 2 312 2055,"['Macedonian Stock Exchange AD', 'Orce Nikolov 75, 1000 Skopje', 'Republic of North Macedonia']",Skopje, Macedonia,
+120,The International Stock Exchange,"St. Peter Port, Guernsey",+44 1481 753000,"['PO Box 623, Helvetia Court,', 'Block B, 3rd Floor,', 'Les Echelons, St Peter Port,', 'Guernsey, GY1 1AR. Channel Islands']",St. Peter Port, Guernsey,
+121,Namibian Stock Exchange,"Windhoek, Namibia",+264 61 227 647,"['4 Robert Mugabe Avenue', 'Windhoek, Namibia']",Windhoek, Namibia,
+122,Cambodia Securities Exchange,"Phnom Penh, Cambodia",+855 23 958 888,"['CSX Building, St. Preah Mohaksat Treiyani Kossamak\u200b (St.106)', 'Sangkat Wat Phnom', 'Khan Daun Penh, Phnom Penh']",Phnom Penh, Cambodia,
+123,Botswana Stock Exchange,"Gaborone, Botswana",+267 318 0201,"['Plot 70667 Fairscape Precinct', '4th Floor Fairgrounds, Gaborone', 'Private Bag 00417 Gaborone']",Gaborone, Botswana,
+124,Tunis Stock Exchange,"Tunis, Tunisia",+216 71 197 910,"['34 Avenue de la Bourse - 1053', 'the banks of Lake II Tunis']",Tunis, Tunisia,
+125,Rwanda Stock Exchange,"Kigali, Rwanda",+250 788 516 021,"['1st Floor, Kigali City Tower,( KCT)', 'P.O.BOX 5337 , Kigali Rwanda', 'KN 81 ST']",Kigali, Rwanda,
+126,Nasdaq Vilnius Stock Exchange,"Vilnius, Lithuania",+370 5 253 1400,"['Business center k29', 'Konstitucijos avenue 29', 'LT- 08105 Vilnius, Lithuania']",Vilnius, Lithuania,8105
+127,Montenegro Stock Exchange,"Podgorica, Montenegro",+382 20 229 710,"['Moskovska 77, 81000 Podgorica']",Podgorica, Montenegro,81000
+128,NEX Exchange,"London, United Kingdom",+44 20 7818 9774,"['London Fruit and Wool Exchange', '1 Duval Square', 'London E1 6PW']",London, United Kingdom,
+129,Dar es Salaam Stock Exchange,"Dar es Salaam, Tanzania",+255 22 212 3983,"['14th Floor, Golden Jubilee Towers', 'The, Ohio St, Dar es Salaam, Tanzania']",Dar es Salaam, Tanzania,
+130,NASDAQ Dubai,"Dubai, United Arab Emirates",+971 4 305 5455,"['Level 8, The Exchange (GV 11)', 'Dubai International Financial Centre', 'Dubai, United Arab Emirates']",Dubai, United Arab Emirates,
+131,National Stock Exchange of Australia,"Sydney, Australia",+61 2 8378 6400,"['1 Bligh Street', 'Sydney, NSW 2000, Australia']",Sydney, Australia,2000
+132,NEO Exchange,"Toronto, Canada",+1 416-933-5900,"['155 University Avenue', 'Suite 400', 'Toronto, ON, M5H 3B7']",Toronto, Canada,
+133,Panama Stock Exchange,"Panama City, Panama",+507 269-1966,"['Ave. Federico Boyd y Calle 49', 'Edificio Bolsa de Valores de Panamá', 'Panama City, Panama']",Panama City, Panama,
+134,Caracas Stock Exchange,"Caracas, Venezuela",+58 212-9055511,"['Calle Sorocaima entre avenida Tamanaco y Venezuela', 'Edificio Atrium, Piso Nivel C1, Local Nivel PB, Urbanización El Rosal', 'Caracas 1060-A - Venezuela.']",Caracas, Venezuela,1060
+135,Tallinn Stock Exchange,"Tallinn, Estonia",+372 640 8800,"['Maakri 19/1', '(Maakri Kvartal, 16th floor)', '10145 Tallinn, Estonia']",Tallinn, Estonia,10145
+136,Guayaquil Stock Exchange,"Guayaquil, Ecuador",+593 4-380-3550,"['Edificio TOUS', 'Pichincha 335 e Illingworth', 'Guayaquil, Ecuador']",Guayaquil, Ecuador,
+137,Costa Rican Stock Exchange,"San Jose, Costa Rica",+506 800-265-7227,"['Parque Empresarial FORUM', '(Autopista Próspero Fernández)', 'Santa Ana, Costa Rica']",San Jose, Costa Rica,
+138,Bolivian Stock Exchange,"La Paz, Bolivia",+591 2 2443232,"['Calle Montevideo No. 142', 'Casilla Postal: 12521', 'La Paz. Bolivia']",La Paz, Bolivia,
+139,Sydney Stock Exchange,"Sydney, Australia",+61 2 9217 2730,"['Level 41, 259 George Street', 'Sydney NSW 2000']",Sydney, Australia,2000
+140,Belarusian Currency and Stock Exchange,"Minsk, Belarus",+375 17 309-33-22,"['48a,Surganova str.', '220013 Minsk, Belarus']",Minsk, Belarus,220013
+141,Korea Exchange (KOSDAQ),"Seoul, South Korea",+82 1577-0088,"['76, Yeouinaru-ro', 'Yeongdeungpo-gu, Seoul']",Seoul, South Korea,
+142,Regional Securities Exchange SA,"Abidjan, Ivory Coast",+225 20 32 66 84,"['BRVM - Regional Stock Exchange', '18, Rue Joseph Anoma (Bank Street)', 'Abidjan - Ivory Coast', '01 BP 3802 Abidjan 01']",Abidjan, Ivory Coast,3802
+143,Iran Fara Bourse,"Tehran, Iran",+98 21 4215 0226,"['Tehran Province, Tehran, No. 1, North Didar St.،', 'Haqqani Expressway, No. 1, Iran']",Tehran, Iran,

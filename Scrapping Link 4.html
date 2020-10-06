@@ -13076,7 +13076,7 @@ div#notebook {
 
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[3]:</div>
+<div class="prompt input_prompt">In&nbsp;[1]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># from time import sleep</span>
@@ -13095,7 +13095,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[53]:</div>
+<div class="prompt input_prompt">In&nbsp;[2]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="k">def</span> <span class="nf">get_page_source</span><span class="p">(</span><span class="n">url</span><span class="p">):</span>
@@ -13115,7 +13115,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[50]:</div>
+<div class="prompt input_prompt">In&nbsp;[3]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="k">def</span> <span class="nf">get_data_from_table</span><span class="p">(</span><span class="n">url</span> <span class="o">=</span> <span class="s2">&quot;https://fiscal.treasury.gov/surety-bonds/list-admitted-reinsurers.html&quot;</span><span class="p">):</span>
@@ -13149,10 +13149,24 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[52]:</div>
+<div class="prompt input_prompt">In&nbsp;[5]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">get_data_from_table</span><span class="p">()</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">df</span> <span class="o">=</span> <span class="n">get_data_from_table</span><span class="p">()</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[7]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">df</span><span class="o">.</span><span class="n">to_csv</span><span class="p">(</span><span class="s2">&quot;list_admitted_reinsurers.csv&quot;</span><span class="p">)</span>
+<span class="n">df</span>
 </pre></div>
 
     </div>
@@ -13165,7 +13179,7 @@ div#notebook {
 
 <div class="output_area">
 
-    <div class="prompt output_prompt">Out[52]:</div>
+    <div class="prompt output_prompt">Out[7]:</div>
 
 
 
@@ -13209,8 +13223,8 @@ div#notebook {
       <td>251118791</td>
       <td>19402</td>
       <td>AIG Property Casualty Company</td>
-      <td>HARRISBURG</td>
-      <td>PA</td>
+      <td>CHICAGO</td>
+      <td>IL</td>
     </tr>
     <tr>
       <th>2</th>
@@ -13245,7 +13259,7 @@ div#notebook {
       <td>...</td>
     </tr>
     <tr>
-      <th>69</th>
+      <th>64</th>
       <td>363703200</td>
       <td>38130</td>
       <td>Travelers Personal Insurance Company</td>
@@ -13253,7 +13267,7 @@ div#notebook {
       <td>CT</td>
     </tr>
     <tr>
-      <th>70</th>
+      <th>65</th>
       <td>592174734</td>
       <td>41211</td>
       <td>TRITON INSURANCE COMPANY</td>
@@ -13261,7 +13275,7 @@ div#notebook {
       <td>TX</td>
     </tr>
     <tr>
-      <th>71</th>
+      <th>66</th>
       <td>61184984</td>
       <td>27120</td>
       <td>Trumbull Insurance Company</td>
@@ -13269,7 +13283,7 @@ div#notebook {
       <td>CT</td>
     </tr>
     <tr>
-      <th>72</th>
+      <th>67</th>
       <td>60732738</td>
       <td>29459</td>
       <td>Twin City Fire Insurance Company</td>
@@ -13277,7 +13291,7 @@ div#notebook {
       <td>IN</td>
     </tr>
     <tr>
-      <th>73</th>
+      <th>68</th>
       <td>916027360</td>
       <td>25747</td>
       <td>Unigard Insurance Company</td>
@@ -13286,7 +13300,7 @@ div#notebook {
     </tr>
   </tbody>
 </table>
-<p>74 rows × 5 columns</p>
+<p>69 rows × 5 columns</p>
 </div>
 </div>
 
